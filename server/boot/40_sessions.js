@@ -1,8 +1,4 @@
 'use strict';
-/*!
- * Inititialization
- * Copyright(c) 2014 WhenHub Inc.
- */
 
 module.exports = function sessions(server) {
 
